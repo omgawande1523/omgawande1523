@@ -4,12 +4,6 @@
   <img alt="Om Gawande Hero Banner" src="dark.svg" width="100%">
 </picture>
 
-<p align="center">
-  <a href="https://github.com/omgawande1523" target="_blank">
-    <img src="https://img.shields.io/github/followers/omgawande1523?style=social&amp;logo=github" alt="GitHub Follow" />
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=omgawande1523&color=7c3aed&style=flat-square" alt="Profile views" />
-</p>
 
 ## 🚀 About Me
 
@@ -124,10 +118,10 @@ I am a passionate **Artificial Intelligence Engineer** and **Full Stack Develope
   <a href="https://github.com/omgawande1523" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/om-gawande/" target="_blank">
+  <a href="https://www.linkedin.com/in/om-gawande-601081242/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://x.com/OmByteBard" target="_blank">
+  <a href="https://x.com/OmGawan55698820" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
   <a href="https://om-os.vercel.app" target="_blank">

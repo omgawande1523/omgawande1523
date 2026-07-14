@@ -293,7 +293,7 @@
     <animateTransform attributeName="transform" type="translate" values="0,0; 0,-8; 0,0" dur="6s" repeatCount="indefinite" />
     
     <!-- ASCII Art Portrait (Staggered Reveal) -->
-    <text x="48" y="150" class="ascii-line">          //=== CYBER ARCHITECT ===\\         <animate attributeName="opacity" from="0" to="1" dur="0.4s" begin="0.1s" fill="freeze"/></text>
+    <text x="48" y="150" class="ascii-line">          //===   AI ENGINEER   ===\\         <animate attributeName="opacity" from="0" to="1" dur="0.4s" begin="0.1s" fill="freeze"/></text>
     <text x="48" y="170" class="ascii-line">         ||  .--------------------.  ||       <animate attributeName="opacity" from="0" to="1" dur="0.4s" begin="0.2s" fill="freeze"/></text>
     <text x="48" y="190" class="ascii-line">         || /  __   __    __   __  \ ||       <animate attributeName="opacity" from="0" to="1" dur="0.4s" begin="0.3s" fill="freeze"/></text>
     <text x="48" y="210" class="ascii-line">         |||  /  \ /  \  /  \ /  \  |||       <animate attributeName="opacity" from="0" to="1" dur="0.4s" begin="0.4s" fill="freeze"/></text>
