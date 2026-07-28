@@ -1,7 +1,9 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="light.svg">
-  <img alt="Om Gawande Hero Banner" src="dark.svg" width="100%">
+  <source media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/omgawande1523/omgawande1523/main/dark.svg">
+  <source media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/omgawande1523/omgawande1523/main/light.svg">
+  <img alt="Om Gawande" src="https://raw.githubusercontent.com/omgawande1523/omgawande1523/main/light.svg">
 </picture>
 
 
