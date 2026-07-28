@@ -112,22 +112,20 @@ I am a passionate **Artificial Intelligence Engineer** and **Full Stack Develope
 
 ---
 
-## 🤝 Let's Connect!
-
-<p align="center">
-  <a href="https://github.com/omgawande1523" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/om-gawande-601081242/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://x.com/OmGawan55698820" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
-  <a href="https://om-os.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-10B981?style=for-the-badge&logo=globe&logoColor=white" />
-  </a>
-  <a href="mailto:omgawande.dev@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
+<div align="center">
+<a href="https://www.linkedin.com/in/om-gawande-601081242/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+&nbsp;&nbsp;
+<a href="https://om-os.vercel.app">
+  <img src="https://img.shields.io/badge/Portfolio-0A101F?style=for-the-badge&logo=globe&logoColor=10B981&labelColor=0A101F" alt="Portfolio" />
+</a>
+&nbsp;&nbsp;
+<a href="https://x.com/OmGawan55698820">
+  <img src="https://img.shields.io/badge/Twitter-0A101F?style=for-the-badge&logo=x&logoColor=22D3EE&labelColor=0A101F" alt="Twitter" />
+</a>
+&nbsp;&nbsp;
+<a href="mailto:gawandeom2005@gmail.com">
+  <img src="https://img.shields.io/badge/Email-0A101F?style=for-the-badge&logo=gmail&logoColor=10B981&labelColor=0A101F" alt="Email" />
+</a>
+</div>
