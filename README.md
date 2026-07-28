@@ -113,6 +113,19 @@ I am a passionate **Artificial Intelligence Engineer** and **Full Stack Develope
 ---
 
 <div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/omgawande1523/omgawande1523/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/omgawande1523/omgawande1523/output/github-snake.svg" />
+  <img alt="Snake eating my contributions"
+    src="https://raw.githubusercontent.com/omgawande1523/omgawande1523/output/github-snake.svg" />
+</picture>
+</div>
+
+---
+
+<div align="center">
 <a href="https://www.linkedin.com/in/om-gawande-601081242/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
