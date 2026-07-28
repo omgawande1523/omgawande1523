@@ -103,14 +103,12 @@ I am a passionate **Artificial Intelligence Engineer** and **Full Stack Develope
 
 ## 📈 Live GitHub Statistics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=omgawande1523&show_icons=true&theme=dark&hide_border=true&bg_color=0f172a&title_color=22d3ee&text_color=f8fafc&icon_color=7c3aed" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omgawande1523&layout=compact&theme=dark&hide_border=true&bg_color=0f172a&title_color=22d3ee&text_color=f8fafc&icon_color=7c3aed" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=omgawande1523&theme=dark&hide_border=true&background=0f172a&ring=7c3aed&fire=22d3ee&currStreakNum=10b981&sideText=94a3b8" width="98%" />
-</p>
+<div align="center">
+<img width="100%" src="https://streak-stats.demolab.com/?user=omgawande1523&hide_border=true&background=0A101F&stroke=22D3EE&ring=A78BFA&fire=10B981&currStreakLabel=22D3EE&sideLabels=94A3B8&currStreakNum=F8FAFC&sideNums=F8FAFC&dates=64748B&titleColor=22D3EE&card_width=1180" alt="streak" />
+<br/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=omgawande1523&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true&hide_border=true&title_color=22D3EE&icon_color=A78BFA&text_color=94A3B8&bg_color=0A101F&card_width=500" alt="stats" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omgawande1523&layout=compact&langs_count=8&hide_border=true&title_color=22D3EE&text_color=94A3B8&bg_color=0A101F&card_width=500" alt="top langs" />
+</div>
 
 ---
 
